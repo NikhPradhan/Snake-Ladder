@@ -1,0 +1,14 @@
+Requirement : Snake and Ladder
+
+
+-> Multiplayer Game.
+-> Customizable Board in terms of snake and ladder placement and Board size.
+-> Customizable in terms of Dice used.
+-> When Game loads it should:
+	-> Load the configured board size
+	-> Load the configured Snake and Ladder
+	-> Load the configured number of Dice
+	-> Load the number of players who will play the game and all the players should be at starting position
+	
+
+	
